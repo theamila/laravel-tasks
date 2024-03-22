@@ -63,4 +63,4 @@ jobs:
           app-name: 'enmonitor'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79C8E22C77124AEC8EAF1D473AACF954 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB31E25DFC95449C8E97F7F50C670D2C }}
